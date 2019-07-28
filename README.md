@@ -1,10 +1,9 @@
-# Login App
-Login App
+# Blocks
 
 
 What is this repository for?
 
-   Login APP with redux built on react-native initated with react-native-init 
+   bootstrapped with create-react-app
 
    Git clone :- https://github.com/shohailahm/blocks
 
